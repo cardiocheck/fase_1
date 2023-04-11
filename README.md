@@ -2,7 +2,9 @@
 
 Link del repositorio: https://github.com/cardiocheck/fase_1.git
 
-Link del proyecto de Figma: https://www.figma.com/files/project/85297013/FASE-1?fuid=1210904946645456876
+Link para unirse a la carpeta de Figma: https://www.figma.com/files/project/85297013/FASE-1?fuid=1210904946645456876
+
+Link al trabajo publicado en Figma: https://www.figma.com/community/file/1227704608751461686
 
 _Integrantes del grupo_: Lidia Velicia (@lidia-veli); Ana García (@anagarciasaiz); Lucia Mielgo (@lmiel); Jone Vega del Río (@JoneVdr); María González (@mgonzalz)
 
@@ -24,6 +26,7 @@ En el repositorio se incluye:
     - Link de acceso al prototipo: https://www.figma.com/proto/DpRdQ1feN3J4Gf1YPLsWYq/PROTOTYPE?page-id=0%3A1&node-id=3-109&viewport=422%2C324%2C0.13&scaling=min-zoom&starting-point-node-id=3%3A109
     - Disponible en los siguientes formatos: .fig ; .jam ; .pdf ; .png
 
+Además un archivo en el que incluye todo lo anterior en .fig llamado PROTOTIPO FINAL_INCLUYE TODO
 
 ## Introducción
 
