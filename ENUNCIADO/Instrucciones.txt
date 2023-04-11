@@ -1,0 +1,48 @@
+Entrega - Prototipo de vuestra web
+
+1. Objetivo
+Practicar el desarrollo de una arquitectura web básica para  vuestro tema elegido usando figma para el prototipado y HTML/SASS para la implementación.
+
+2. Descripción de la práctica
+Realizar el mapa de sitio, los wireframes y el prototipo de vuestra web
+
+- Mapa de sitio y prototipado
+    El mapa de sitio y el proceso completo de prototipado se realizará con figma. Su apariencia será similar a las capturas siguientes:
+
+1) Deben generarse cuatro páginas con figma: sitemap, wireframes, design system y prototipe
+
+2) El sitemap debe incluir las páginas que se generen y la relación entre ellas
+
+3) Los wireframes deben incluir los planos de pantalla y la estructura de cada uno de ellos, tratando de acercarnos lo máximo posible al tipo de componentes que tendrán y su distribución. Es importante tener en cuenta el dispositivo para el que se esté diseñando.
+
+4) Se debe generar así mismo la navegación entre pantallas, para lo que se recomienda empezar a generarla en la página de los wireframes.
+
+5)    La página de design system incluirá como mínimo el diseño de:
+
+        ○  Niveles de texto
+
+        ○  Colores
+
+        ○  Layout
+
+        ○  Botones primarios y secundarios
+
+        ○  Personajes del juego y disparos
+
+6) El prototipo acabado se creará aplicando el sistema de diseño a los wireframes navegables en una página aparte. En este prototipo es importante diseñar y dejar definidas las transiciones entre pantallas y el resto de animaciones clave de la intefaz gráfica.
+
+
+
+3. Instrucciones para la Entrega y Evaluación.
+
+La entrega consiste en subir el fichero juego.fig a la plataforma. Para evaluar el trabajo realizado por otra persona, hay que descargar el fichero.fig de la plataforma e importarlo a figma. 
+
+RUBRICA. Se puntuará el ejercicio a corregir sumando el % indicado a la nota total si la parte indicada es correcta:
+
+    - 25%: Sitemap
+
+    - 25%: Wireframes con navegación básica
+
+    - 25%: Sistema de diseño
+
+    - 25%: Prototipo final
