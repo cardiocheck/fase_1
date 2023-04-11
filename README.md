@@ -30,7 +30,7 @@ Además un archivo en el que incluye todo lo anterior en .fig llamado PROTOTIPO 
 
 ## Introducción
 
-Mediante la fase 0 ya se dio un primer paso a la esquematización de la página web. En la fase 1 hemos especificado todo el diseño de la web, mediante la creación de: sitemap, con la organización de la página y las relaciones que hay entre cada página; design system o sistema de diseño, establece las normas que debe seguir la página web en cuanto a diseño para poder trabajar de una forma alineada; wirefrime, tratándose de un esquema básico de las pantallas de la página web, es decir, una idea simple de lo que será el prototipo final. Finalmente, todo ello se relaciona en el prototipo final en dónde a los wireframes se le aplicaría el sistema de diseño dejando señaladas las transiciones de una pantalla a otra.
+Mediante la fase 0 ya se dio un primer paso a la esquematización de la página web. En la fase 1 hemos especificado todo el diseño de la web, mediante la creación de: sitemap, con la organización de la página y las relaciones que hay entre cada página; design system o sistema de diseño, establece las normas que debe seguir la página web en cuanto a diseño para poder trabajar de una forma alineada; wireframe, tratándose de un esquema básico de las pantallas de la página web, es decir, una idea simple de lo que será el prototipo final. Finalmente, todo ello se relaciona en el prototipo final en dónde a los wireframes se le aplicaría el sistema de diseño dejando señaladas las transiciones de una pantalla a otra.
 
 **Recordatorio:** Nuestra página web se trata de CardioCheck una empresa que permite realizar un test para poder prevenir enfermedades cardiovasculares
 
