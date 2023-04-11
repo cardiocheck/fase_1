@@ -14,7 +14,7 @@ En el repositorio se incluye:
     - Link de acceso al fig: https://www.figma.com/file/nd6THDHmmy4WbfonDb63Tz/DESIGN-SYSTEM?node-id=0%3A1&t=H6Dl13cbDAcfVbss-1
     - Disponible en los siguientes formatos: .fig ; .jam ; .pdf ; .png
 2. Sitemap:
-    - Link de acceso: https://www.figma.com/file/9hP5Z9a4OiEH9EkXf4DIJa/SITEMAP?node-id=0%3A1&t=kzj6LxCPOxacumbx-1
+    - Link de acceso al fig: https://www.figma.com/file/9hP5Z9a4OiEH9EkXf4DIJa/SITEMAP?node-id=0%3A1&t=kzj6LxCPOxacumbx-1
     - Disponible en los siguientes formatos: .fig ; .jam ; .pdf ; .png
 3. Wireframe:
     - Link de acceso al fig: https://www.figma.com/file/aqJbclMWAWk7MkwJ9pwo1J/WIREFRAME?node-id=0%3A1&t=usVuno5OCaKpPjJh-1
